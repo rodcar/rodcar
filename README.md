@@ -5,11 +5,14 @@
 
 See more about me below.
 
-## Projects
+<details>
+<summary>Projects</summary>
 
-## Skills
+Projects
 
-## Connect with me
+</details>
+
+
 
 
 
