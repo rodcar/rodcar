@@ -3,7 +3,9 @@
 -
 - 📫 How to reach me: nnrodcar@gmail.com
 
-See more about me below.
+### Technology
+
+
 
 <details>
 <summary>Projects</summary>
