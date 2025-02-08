@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+-
+- 📫 How to reach me: nnrodcar@gmail.com
+
+See more about me below.
+
 ## Projects
 
 ## Skills
