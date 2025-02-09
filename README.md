@@ -1,23 +1,74 @@
-## Hi there 👋
+# Hi there 👋
 
 -
 - 📫 How to reach me: nnrodcar@gmail.com
 
-### Technology
+## Technology
 
+## AI & ML Projects
 
+*Expand to see project's details.*
 
 <details>
-<summary>Projects</summary>
+<summary>Project 1</summary>
 
-Projects
+Project's Details
 
 </details>
 
+<details>
+<summary>Project 1</summary>
 
+Project's Details
 
+</details>
 
+<details>
+<summary>Project 1</summary>
 
+Project's Details
+
+</details>
+
+<details>
+<summary>Project 1</summary>
+
+Project's Details
+
+</details>
+
+<!--## Other Projects
+
+*I've also worked on mobile and web development (front-end and back-end)*
+
+<details>
+<summary>Project 1</summary>
+
+Project's Details
+
+</details>
+
+<details>
+<summary>Project 1</summary>
+
+Project's Details
+
+</details>
+
+<details>
+<summary>Project 1</summary>
+
+Project's Details
+
+</details>
+
+<details>
+<summary>Project 1</summary>
+
+Project's Details
+
+</details>
+-->
 <!--
 **rodcar/rodcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
