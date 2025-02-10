@@ -10,28 +10,28 @@
 *Expand to see project's details.*
 
 <details>
-<summary>Project 1</summary>
+<summary>Project 1: </summary>
 
 Project's Details
 
 </details>
 
 <details>
-<summary>Project 1</summary>
+<summary>Project 2:</summary>
 
 Project's Details
 
 </details>
 
 <details>
-<summary>Project 1</summary>
+<summary>Project 3: </summary>
 
 Project's Details
 
 </details>
 
 <details>
-<summary>Project 1</summary>
+<summary>Project 4: </summary>
 
 Project's Details
 
