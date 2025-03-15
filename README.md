@@ -1,22 +1,23 @@
 # Hi there 👋
 
--
+- 🛠️ Teck Stack: Python, Ollama, LangChain, LangGraph.
 - 📫 How to reach me: nnrodcar@gmail.com
-
-## Technology
 
 ## AI & ML Projects
 
 *Expand to see project's details.*
 
 <details>
-<summary>Project 1: </summary>
+<summary><a><b>Ideas Abiertas ('Open Ideas')</b></a></summary>
 
-Project's Details
+<div><b>Teck Stack:</b>Python, Ollama (Gemma 2 - 27B), LangChain (Prompt Engineering, Structure Outputs), LangGraph (LLM Discussion)</div>
 
 </details>
 
-<details>
+<!--## Technology-->
+
+
+<!--<details>
 <summary>Project 2:</summary>
 
 Project's Details
@@ -37,7 +38,7 @@ Project's Details
 
 </details>
 
-<!--## Other Projects
+## Other Projects
 
 *I've also worked on mobile and web development (front-end and back-end)*
 
