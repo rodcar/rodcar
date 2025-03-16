@@ -3,7 +3,7 @@
 - 🛠️ Teck Stack: Python, Ollama, LangChain, LangGraph.
 - 📫 How to reach me: nnrodcar@gmail.com
 
-## AI & ML Projects
+## Projects
 
 *Expand to see project's details.*
 
