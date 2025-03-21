@@ -15,6 +15,13 @@
 </details>
 
 <details>
+<summary><a><b>Personal Assistant Agent</b></a></summary>
+
+<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions, Google Calendar API</div>
+
+</details>
+
+<details>
 <summary><a><b>OpenPE</b></a></summary>
 
 <div><b>Teck Stack:</b>Python</div>
