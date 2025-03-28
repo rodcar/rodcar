@@ -35,6 +35,13 @@
 
 </details>
 
+<details>
+<summary><a><b>AI Solutions Architect Agent</b></a></summary>
+
+<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions</div>
+
+</details>
+
 <!--## Technology-->
 
 
