@@ -49,6 +49,13 @@
 
 </details>
 
+<details>
+<summary><a><b>Scrum Master Agent</b></a></summary>
+
+<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions</div>
+
+</details>
+
 <!--## Technology-->
 
 
