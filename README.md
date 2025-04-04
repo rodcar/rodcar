@@ -42,6 +42,12 @@
 
 </details>
 
+<summary><a><b>AI Receipt Reader with Alternative Product Picks</b></a></summary>
+
+<div><b>Teck Stack:</b>RAG, Milvus Lite, Gemini API - Multimodal, Python, Gradio, Airflow, ETL</div>
+
+</details>
+
 <!--## Technology-->
 
 
