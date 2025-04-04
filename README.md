@@ -56,6 +56,13 @@
 
 </details>
 
+<details>
+<summary><a><b>Shopping Assistant Agent</b></a></summary>
+
+<div><b>Teck Stack:</b>RAG, Milvus Lite, Gemini API, Python, Cloud Run Functions</div>
+
+</details>
+
 <!--## Technology-->
 
 
