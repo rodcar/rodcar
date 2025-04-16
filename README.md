@@ -8,6 +8,13 @@
 *Expand to see project's details.*
 
 <details>
+<summary><a><b>Agentic Software Factory</b></a></summary>
+
+<div><b>Teck Stack:</b>Python, Semantic Kernel, Azure AI Agent Service, Claude Code, Codex, Cosmos DB</div>
+
+</details>
+
+<details>
 <summary><a><b>Ideas Abiertas ('Open Ideas')</b></a></summary>
 
 <div><b>Teck Stack:</b>Python, Ollama (Gemma 2 - 27B), LangChain (Prompt Engineering, Structure Outputs), LangGraph (LLM Discussion)</div>
