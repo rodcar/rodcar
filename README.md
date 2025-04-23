@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🛠️ Teck Stack: Python, Ollama, LangChain, LangGraph.
+- 🛠️ Teck Stack: Python, Ollama, LangChain, LangGraph, Semantic Kernel.
 - 📫 How to reach me: nnrodcar@gmail.com
 
 ## Projects
