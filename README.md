@@ -77,6 +77,13 @@
 
 </details>
 
+<details>
+<summary><a><b>Azure DevOps MCP Server</b></a></summary>
+
+<div><b>Teck Stack:</b>Semantic Kernel</div>
+
+</details>
+
 <!--## Technology-->
 
 
