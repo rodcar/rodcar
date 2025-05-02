@@ -8,6 +8,13 @@
 *Expand to see project's details.*
 
 <details>
+<summary><a><b>Code Agent CLI</b></a></summary>
+
+<div><b>Teck Stack:</b>Python, OpenAI</div>
+
+</details>
+
+<details>
 <summary><a><b>Agentic Software Factory</b></a></summary>
 
 <div><b>Teck Stack:</b>Python, Semantic Kernel, Azure AI Agent Service, Claude Code, Codex, Cosmos DB</div>
