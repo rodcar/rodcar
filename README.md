@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🛠️ Teck Stack: Python, Ollama, Azure OpenAI Service, LangChain, LangGraph, Semantic Kernel.
+- 🛠️ Teck Stack: Python, Ollama, Azure OpenAI Service, LangChain, LangGraph, Semantic Kernel, AutoGen.
 - 📫 How to reach me: nnrodcar@gmail.com
 
 ## Projects
