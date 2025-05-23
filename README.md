@@ -98,6 +98,13 @@
 
 </details>
 
+<details>
+<summary><a><b>Virtual QA Automation Engineer</b></a></summary>
+
+<div><b>Teck Stack:</b>Python, OpenAI, NVIDIA AgentIQ</div>
+
+</details>
+
 <!--## Technology-->
 
 
