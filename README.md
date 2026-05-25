@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🛠️ Teck Stack: Python, Ollama, Azure OpenAI Service, LangChain, LangGraph, Semantic Kernel, AutoGen, Agent Development Kit (ADK), AWS Strands.
-- 📫 How to reach me: nnrodcar@gmail.com
+- 📫 How to reach me: ivanrodcar@gmail.com
 
 ## Projects
 
