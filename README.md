@@ -2,14 +2,6 @@
 
 AI Engineer building **LLM applications, RAG systems, AI agents, and MCP servers**.
 
-## What I build
-
-- **LLM applications** for real-world workflows and internal tools
-- **AI agents** for planning, automation, and multi-step task execution
-- **RAG systems** for grounded question answering and knowledge access
-- **MCP servers** that connect AI assistants to structured external data
-- **Document intelligence workflows** for classification, extraction, and processing
-
 ## Featured projects
 
 ### [agentic-software-factory](https://github.com/rodcar/agentic-software-factory)
@@ -32,9 +24,8 @@ MCP server for UK visa sponsor verification and background checking workflows.
 
 ## Stack
 
-<img width="600" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
+<img width="700" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
 
 ## Portfolio
 
-Visit my portfolio and chat with my AI agent about my work:  
-[ivanrodcar.com](https://ivanrodcar.com)
+Visit my portfolio and chat with my AI agent about my projects: [ivanrodcar.com](https://ivanrodcar.com)
