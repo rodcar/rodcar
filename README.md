@@ -1,6 +1,4 @@
-AI Engineer building **LLM applications, RAG systems, AI agents, and MCP servers**.
-
-## Featured projects
+<h2 align="center">Featured projects</h2>
 
 ### [agentic-software-factory](https://github.com/rodcar/agentic-software-factory)
 Multi-agent software engineering system for collaborative planning, research, and code generation workflows.
@@ -20,10 +18,10 @@ MCP server for Peru's National Open Data Platform, enabling AI assistants to que
 ### [uk-licensed-sponsors-mcp](https://github.com/rodcar/uk-licensed-sponsors-mcp)
 MCP server for UK visa sponsor verification and background checking workflows.
 
-## Stack
+<h2 align="center">Stack</h2>
 
 <img width="700" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
 
-## Portfolio
+<h2 align="center">Portfolio</h2>
 
-Chat with my AI agent about my projects: [ivanrodcar.com](https://ivanrodcar.com)
+<div align="center">Chat with my AI agent about my projects: <a href="https://ivanrodcar.com">ivanrodcar.com<a></div>
