@@ -2,24 +2,24 @@
 
 AI Engineer building LLM applications, RAG systems, AI agents, and MCP servers.
 
-I focus on applied AI systems that turn unstructured data, tools, and workflows into working software products.
+I build applied AI systems that turn documents, data, tools, and workflows into working software products.
 
 ## What I build
 
 - LLM applications for document analysis, extraction, and workflow automation
 - RAG systems using embeddings, vector databases, and semantic search
-- AI agents that use tools, generate plans, and automate software workflows
-- MCP servers that expose data and tools to AI assistants
+- AI agents that use tools, plans, and workflows to automate software tasks
+- MCP servers that expose real data and tools to AI assistants
 
 ## Core stack
 
-**LLM Applications:** OpenAI, Azure OpenAI, Gemini, Amazon Bedrock, structured outputs, prompt engineering  
+**LLM Applications:** OpenAI, Azure OpenAI, Gemini, Amazon Bedrock, structured outputs  
 **RAG and Data:** embeddings, semantic search, Pinecone, ChromaDB, Milvus, Weaviate  
-**Agents and MCP:** LangChain, LangGraph, Semantic Kernel, AutoGen, FastMCP, tool use  
+**Agents and MCP:** LangChain, LangGraph, Semantic Kernel, AutoGen, FastMCP  
 **Cloud and Product Engineering:** Python, REST APIs, AWS Lambda, Azure Functions, Docker, PostgreSQL, DynamoDB
 
-## Featured projects
+## Featured work
 
-Selected projects are pinned below. For full case studies, demos, screenshots, and architecture breakdowns, visit my portfolio:
+Selected projects are pinned below. Each project includes code, README documentation, and where available, demos, screenshots, architecture notes, or portfolio case studies.
 
-ivanrodcar.com
+For full case studies, visit: [ivanrodcar.com](https://ivanrodcar.com)
