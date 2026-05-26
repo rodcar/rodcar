@@ -22,10 +22,8 @@
   </a>
 </p>
 
+Explore my full portfolio: [ivanrod.com](https://www.ivanrodcar.com)
+
 ## Stack
 
 <img width="700" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
-
-## Portfolio
-
-Chat with my AI agent about my projects: [ivanrodcar.com](https://ivanrodcar.com)
