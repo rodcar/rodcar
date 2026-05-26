@@ -32,7 +32,7 @@ MCP server for UK visa sponsor verification and background checking workflows.
 
 ## Stack
 
-<img width="1400" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
+<img width="600" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
 
 ## Portfolio
 
