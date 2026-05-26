@@ -22,4 +22,4 @@ I build applied AI systems that turn documents, data, tools, and workflows into 
 
 Selected projects are pinned below. Each project includes code, README documentation, and where available, demos, screenshots, architecture notes, or portfolio case studies.
 
-For full case studies, visit: [ivanrodcar.com](https://ivanrodcar.com)
+Visit my portfolio and chat with my AI agent about my work: [ivanrodcar.com](https://ivanrodcar.com)
