@@ -1,5 +1,3 @@
-# Hi, I'm Ivan Rodriguez
-
 AI Engineer building **LLM applications, RAG systems, AI agents, and MCP servers**.
 
 ## Featured projects
@@ -28,4 +26,4 @@ MCP server for UK visa sponsor verification and background checking workflows.
 
 ## Portfolio
 
-Visit my portfolio and chat with my AI agent about my projects: [ivanrodcar.com](https://ivanrodcar.com)
+Chat with my AI agent about my projects: [ivanrodcar.com](https://ivanrodcar.com)
