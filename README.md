@@ -1,28 +1,6 @@
 ## Stack
 
-**Models and AI Platforms**
-
-OpenAI, Azure OpenAI, Gemini, Amazon Bedrock
-
-**Vector Databases**
-
-Pinecone, ChromaDB, Milvus, Weaviate
-
-**Agent Frameworks and Protocols**
-
-LangChain, LangGraph, Semantic Kernel, AutoGen, FastMCP
-
-**Data and Storage**
-
-PostgreSQL, DynamoDB
-
-**Compute**
-
-AWS Lambda, Azure Functions
-
-**Containers**
-
-Docker
+<img width="3496" height="2088" alt="stack (1)" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
 
 ## Featured Projects
 
