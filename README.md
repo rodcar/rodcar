@@ -10,7 +10,7 @@
   <a href="https://github.com/rodcar/uk-licensed-sponsors-mcp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rodcar&repo=uk-licensed-sponsors-mcp&theme=react&bg_color=121826&title_color=ffffff&hide_border=true&icon_color=58A6FF&show_icons=true" alt="uk-licensed-sponsors-mcp"></a>
 </p>
 
-Explore my full portfolio: [ivanrod.com](https://www.ivanrodcar.com)
+**Explore my full portfolio: [ivanrod.com](https://www.ivanrodcar.com)**
 
 ## Stack
 
