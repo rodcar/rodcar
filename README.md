@@ -1,177 +1,25 @@
-# Hi there 👋
+# Hi, I'm Ivan Rodriguez 👋
 
-- 🛠️ Teck Stack: Python, Ollama, Azure OpenAI Service, LangChain, LangGraph, Semantic Kernel, AutoGen, Agent Development Kit (ADK), AWS Strands.
-- 📫 How to reach me: ivanrodcar@outlook.com
+AI Engineer building LLM applications, RAG systems, AI agents, and MCP servers.
 
-## Projects
+I focus on applied AI systems that turn unstructured data, tools, and workflows into working software products.
 
-*Expand to see project's details.*
+## What I build
 
-<details>
-<summary><a><b>Code Agent CLI</b></a></summary>
+- LLM applications for document analysis, extraction, and workflow automation
+- RAG systems using embeddings, vector databases, and semantic search
+- AI agents that use tools, generate plans, and automate software workflows
+- MCP servers that expose data and tools to AI assistants
 
-<div><b>Teck Stack:</b>Python, OpenAI</div>
+## Core stack
 
-</details>
+**LLM Applications:** OpenAI, Azure OpenAI, Gemini, Amazon Bedrock, structured outputs, prompt engineering  
+**RAG and Data:** embeddings, semantic search, Pinecone, ChromaDB, Milvus, Weaviate  
+**Agents and MCP:** LangChain, LangGraph, Semantic Kernel, AutoGen, FastMCP, tool use  
+**Cloud and Product Engineering:** Python, REST APIs, AWS Lambda, Azure Functions, Docker, PostgreSQL, DynamoDB
 
-<details>
-<summary><a><b>Agentic Software Factory</b></a></summary>
+## Featured projects
 
-<div><b>Teck Stack:</b>Python, Semantic Kernel, Azure AI Agent Service, Claude Code, Codex, Cosmos DB</div>
+Selected projects are pinned below. For full case studies, demos, screenshots, and architecture breakdowns, visit my portfolio:
 
-</details>
-
-<details>
-<summary><a><b>Multi-Agent Issue Reseach</b></a></summary>
-
-<div><b>Teck Stack:</b>Python, Autogen, Magentic-One</div>
-
-</details>
-
-<details>
-<summary><a><b>Ideas Abiertas ('Open Ideas')</b></a></summary>
-
-<div><b>Teck Stack:</b>Python, Ollama (Gemma 2 - 27B), LangChain (Prompt Engineering, Structure Outputs), LangGraph (LLM Discussion)</div>
-
-</details>
-
-<details>
-<summary><a><b>Personal Assistant Agent</b></a></summary>
-
-<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions, Google Calendar API</div>
-
-</details>
-
-<details>
-<summary><a><b>OpenPE</b></a></summary>
-
-<div><b>Teck Stack:</b>Python</div>
-
-</details>
-
-<details>
-<summary><a><b>Customer Service Agent</b></a></summary>
-
-<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions</div>
-
-</details>
-
-<details>
-<summary><a><b>AI Solutions Architect Agent</b></a></summary>
-
-<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions</div>
-
-</details>
-
-<details>
-<summary><a><b>AI Receipt Reader with Alternative Product Picks</b></a></summary>
-
-<div><b>Teck Stack:</b>RAG, Milvus Lite, Gemini API - Multimodal, Python, Gradio, Airflow, ETL</div>
-
-</details>
-
-<details>
-<summary><a><b>Scrum Master Agent</b></a></summary>
-
-<div><b>Teck Stack:</b>Gemini API, Python, Cloud Run Functions</div>
-
-</details>
-
-<details>
-<summary><a><b>Shopping Assistant Agent</b></a></summary>
-
-<div><b>Teck Stack:</b>RAG, Milvus Lite, Gemini API, Python, Cloud Run Functions</div>
-
-</details>
-
-<details>
-<summary><a><b>Onboarding Agent</b></a></summary>
-
-<div><b>Teck Stack:</b>Google Storage, Gemini API, Python, Cloud Run Functions</div>
-
-</details>
-
-<details>
-<summary><a><b>Azure DevOps MCP Server</b></a></summary>
-
-<div><b>Teck Stack:</b>Semantic Kernel</div>
-
-</details>
-
-<details>
-<summary><a><b>Virtual QA Automation Engineer</b></a></summary>
-
-<div><b>Teck Stack:</b>Python, OpenAI, NVIDIA AgentIQ</div>
-
-</details>
-
-<!--## Technology-->
-
-
-<!--<details>
-<summary>Project 2:</summary>
-
-Project's Details
-
-</details>
-
-<details>
-<summary>Project 3: </summary>
-
-Project's Details
-
-</details>
-
-<details>
-<summary>Project 4: </summary>
-
-Project's Details
-
-</details>
-
-## Other Projects
-
-*I've also worked on mobile and web development (front-end and back-end)*
-
-<details>
-<summary>Project 1</summary>
-
-Project's Details
-
-</details>
-
-<details>
-<summary>Project 1</summary>
-
-Project's Details
-
-</details>
-
-<details>
-<summary>Project 1</summary>
-
-Project's Details
-
-</details>
-
-<details>
-<summary>Project 1</summary>
-
-Project's Details
-
-</details>
--->
-<!--
-**rodcar/rodcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ivanrodcar.com
