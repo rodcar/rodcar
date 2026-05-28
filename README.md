@@ -14,4 +14,5 @@
 
 ## Stack
 
-<img width="846" alt="AI engineering stack" src="https://github.com/user-attachments/assets/9da34656-b521-494e-9290-e38264ce9c9a" />
+<img width="1692" height="900" alt="image" src="https://github.com/user-attachments/assets/ee0a90c1-8c4f-4154-8550-273e0ed8310b" />
+
