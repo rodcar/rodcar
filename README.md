@@ -14,5 +14,4 @@
 
 ## Stack
 
-<img width="1692" height="900" alt="image" src="https://github.com/user-attachments/assets/ee0a90c1-8c4f-4154-8550-273e0ed8310b" />
-
+<img width="1692" height="842" alt="image" src="https://github.com/user-attachments/assets/8f720fb2-ff06-4c32-bea5-19c9311a6f66" />
